@@ -27,7 +27,7 @@
         "cors": "^2.8.5",
         "crypto": "^1.0.1",
         "dateformat": "^3.0.3",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "express-fileupload": "^1.0.0",
         "jade": "^1.11.0",
         "jimp": "^0.6.0",
