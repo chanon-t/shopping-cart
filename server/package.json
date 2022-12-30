@@ -50,7 +50,7 @@
     "devDependencies": {
         "@types/chai-http": "^4.2.0",
         "@types/mocha": "^5.2.6",
-        "mocha": "^7.1.2",
+        "mocha": "^10.2.0",
         "chai": "^4.2.0",
         "chai-http": "^4.3.0"
     }
